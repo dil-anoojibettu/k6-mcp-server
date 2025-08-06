@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "k6": {
+      "command": "C:\\Users\\anoojibettu\\.local\\bin\\uv.exe",
+      "args": [
+        "--directory",
+        "C:\\Users\\anoojibettu\\Desktop\\K6_MCP_Server\\k6-mcp-server",
+        "run",
+        "k6_server.py"
+      ]
+    }
+  }
+} 
